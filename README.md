@@ -1,4 +1,4 @@
-# MIT_Portugal_Call_SupportingDocuments
+# SupportingDocuments
 
 
 I am a geophysicist working in interdesciplinary areas of research and my research interset involves numerical modeling and inversion, 
